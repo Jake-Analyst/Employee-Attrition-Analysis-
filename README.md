@@ -6,7 +6,7 @@
 The **Employee Attrition Dashboard** provides a data-driven understanding of the factors influencing employee turnover within an organization.  
 The goal was to identify patterns and insights that could help HR teams make informed decisions on employee retention.  
 
-This project follows a complete analytics workflow — from **data cleaning and transformation in Excel ** to **interactive visualization in Power BI**.  
+This project follows a complete analytics workflow — from **data cleaning and transformation in Excel** to **interactive visualization in Power BI**.  
 The dashboard enables management to track attrition across departments, analyze demographic trends, and uncover key drivers such as income and job satisfaction.  
 
 ## Business Problem  
