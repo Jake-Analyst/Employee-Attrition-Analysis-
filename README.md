@@ -1,7 +1,7 @@
 #  Employee Attrition Dashboard  
 
 ### Excel | Power BI | HR Analytics  
-![Dashboard Preview](./HR%20BI%20-%20Employee%20-%20Attrition.png)
+![Dashboard Preview](https://raw.githubusercontent.com/YourUsername/YourRepo/main/HR%20BI%20-%20Employee%20-%20Attrition.png)
 
 ## Executive Summary  
 The **Employee Attrition Dashboard** provides a data-driven understanding of the factors influencing employee turnover within an organization.  
