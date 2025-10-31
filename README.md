@@ -51,7 +51,7 @@ This section details how the dashboard was created from start to finish.
 
 ## Results & Insights  
 - **Sales** and **Research & Development** departments had the **highest attrition rates**  
-- **Married people and the Male gender ** showed higher turnover  
+- **Married people and the Male gender** showed higher turnover  
 - **Low monthly income** and strongly correlated with attrition  
 - **Gender differences** were minimal but slightly higher among males
 - **Salary Increment** led to increased performance 
